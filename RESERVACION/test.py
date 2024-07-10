@@ -1,4 +1,4 @@
-from app import *
+from models import *
 
 # Medicos
 medico1 = Medico('21078054-1', 'Ana', 'Pérez')
